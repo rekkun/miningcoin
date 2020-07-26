@@ -18,6 +18,7 @@
   "homepage": "https://github.com/rekkun1-xkx-me/miningcoin#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "puppeteer": "^5.2.1"
+    "puppeteer": "^5.2.1",
+    "puppeteer-cluster": "^0.21.0"
   }
 }
